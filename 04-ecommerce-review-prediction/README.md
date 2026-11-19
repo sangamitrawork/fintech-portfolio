@@ -1,7 +1,7 @@
 # Predicting Positive Customer Reviews with LightGBM
 
 **Type:** Group project, MSc Financial Technology (Big Data Analytics)
-**My contribution:** [ADD YOUR PART HERE, e.g. "Feature engineering and leakage checks; threshold tuning; report writing"]
+**My contribution:** My contribution: Worked across the full project as a team member: data cleaning and feature engineering, modelling and writing up the results.
 **Code:** written jointly with teammates and not published here; this page summarises the method and result.
 
 ## Question
