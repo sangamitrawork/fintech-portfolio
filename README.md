@@ -1,4 +1,4 @@
-# FinTech Research Portfolio — Sangamitra Chandrasekaran
+# FinTech Research Portfolio: Sangamitra Chandrasekaran
 
 MSc Financial Technology, Warwick Business School (2026). My research asks one question: **what makes new financial technology trustworthy enough to use?** These projects show how I approach it, through risk modelling, verifiable AI and careful evaluation.
 
