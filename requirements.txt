@@ -1,0 +1,50 @@
+# Core data and statistics
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+statsmodels
+tabulate
+tqdm
+
+# Market data and financial econometrics
+yfinance
+arch
+pmdarima
+cvxpy
+
+# Machine learning
+scikit-learn
+lightgbm
+joblib
+
+# Retrieval-augmented generation
+pypdf
+sentence-transformers
+faiss-cpu
+rank-bm25
+google-generativeai
+gradio
+
+# Multi-LLM pipeline
+openai
+anthropic
+google-genai
+groq
+huggingface_hub
+requests
+
+# Generative AI lab
+torch
+torchvision
+transformers
+datasets
+xgboost
+tabpfn
+llama-index
+pdf2image
+smolagents
+ctgan
+sdmetrics
+pillow
