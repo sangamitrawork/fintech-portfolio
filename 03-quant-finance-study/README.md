@@ -1,7 +1,7 @@
 # Empirical Quantitative Finance Study
 
 **Type:** Group project, MSc Financial Technology (Financial Analytics)
-**My contribution:** [ADD YOUR PART HERE, e.g. "Led the Day 4 portfolio optimisation analysis and co-wrote Days 1 and 8"]
+**My contribution:** Worked across all parts as a full team member: data analysis in Python, interpreting results and building the presentation.
 
 A series of empirical tests on how financial returns really behave, and what that means for forecasting, risk and portfolio choice. Data is downloaded with `yfinance` inside each notebook.
 
