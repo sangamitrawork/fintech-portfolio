@@ -1,7 +1,7 @@
 # Multi-LLM, Human-in-the-Loop Capital Budgeting
 
 **Type:** Group project, MSc Financial Technology (Generative AI)
-**My contribution:** [ADD YOUR PART HERE]
+**My contribution:** Worked across the full project as a team member: designing the multi-model pipeline and prompts, evaluating the AI outputs against the rubric and writing the reflection.
 **Code:** [`multi_llm_pipeline.py`](multi_llm_pipeline.py)
 
 ## Question
